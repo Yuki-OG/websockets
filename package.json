@@ -1,0 +1,23 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "This is just me playing around with websockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuki-OG/websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuki-OG/websockets/issues"
+  },
+  "homepage": "https://github.com/Yuki-OG/websockets#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "socket.io": "^4.5.1"
+  }
+}
